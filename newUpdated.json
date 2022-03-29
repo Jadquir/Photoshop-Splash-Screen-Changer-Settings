@@ -13,7 +13,8 @@
       "IsMustHave": true,
       "Latest": true,
       "Changes": [
-        " - Added ability to change splash screen text color.",
+        " - Added update changelog viewer.",
+        " - Added ability to change splash screen text color."
       ]
     }
   ],
