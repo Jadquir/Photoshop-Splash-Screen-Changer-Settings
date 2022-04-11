@@ -1,22 +1,31 @@
 {
   "Updates": [
     {
-      "version": 1.0,
-      "IsMustHave": false,
+      "Version": 1.0,
+      "IsMustHave": true,
       "Latest": false,
       "Changes": [
         " - Official Release."
       ]
     },
     {
-      "version": 1.1,
+      "Version": 1.1,
       "IsMustHave": true,
-      "Latest": true,
+      "Latest": false,
       "Changes": [
         " - Added update changelog viewer.",
         " - Added ability to change splash screen text color."
       ]
+    },
+    {
+      "Version": 1.2,
+      "IsMustHave": false,
+      "Latest": true,
+      "Changes": [
+        " - Updated UI"
+      ]
     }
   ],
-  "DownloadLink": "https://jadquir.itch.io/photoshop-splash-screen-changer"
+  "DownloadLink": "https://jadquir.itch.io/photoshop-splash-screen-changer",
+  "UpdateLink": "https://raw.githubusercontent.com/Jadquir/Photoshop-Splash-Screen-Changer-Settings/main/newUpdated.json"
 }
