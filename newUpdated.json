@@ -14,14 +14,7 @@
       "Latest": false,
       "Changes": [
         " - Added update changelog viewer.",
-        " - Added ability to change splash screen text color."
-      ]
-    },
-    {
-      "Version": 1.2,
-      "IsMustHave": false,
-      "Latest": true,
-      "Changes": [
+        " - Added ability to change splash screen text color.",
         " - Updated UI"
       ]
     }
