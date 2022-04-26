@@ -17,6 +17,15 @@
         " - Added ability to change splash screen text color.",
         " - Updated UI"
       ]
+    },
+    {
+      "Version": 1.2,
+      "IsMustHave": false,
+      "Latest": true,
+      "Changes": [
+        " - Updated Color Picker(Fixed can't select grayish colors).",
+        " - Added ability to change opacity of color."
+      ]
     }
   ],
   "DownloadLink": "https://jadquir.itch.io/photoshop-splash-screen-changer",
